@@ -3,11 +3,11 @@ Native
 
 Haxe LLVM code gen backend (not for Neko JIT)
 
-<a href="http://peyty.github.io#donate"><img src="http://peyty.github.io/images/donate.png"></a>
-<a href="http://peyty.github.io#hireme"><img src="http://peyty.github.io/images/hireme.png"></a>
+I made another prototype in OCaml with more features, but stopped development 
 
 Progress
 =================
+
 * "Hello world" in haXe works
 
 Say hello to Haxe-LLVM:
